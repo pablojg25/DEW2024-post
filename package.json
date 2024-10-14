@@ -1,13 +1,13 @@
 {
-  "name": "dew2024-post",
+  "name": "dew-post",
   "version": "1.0.0",
+  "description": "Prueba de exámen DEW tema 2",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "pablojg25",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "jest": "^29.7.0",
     "standard": "^17.1.2"

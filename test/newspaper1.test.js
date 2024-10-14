@@ -1,6 +1,6 @@
 /* eslint-env jest */
 
-const Newspaper = require('../src/newspaper')
+const Newspaper = require('../src/newspaper.js')
 
 test('Create a newspaper', () => {
   const diario = new Newspaper('Diario de Avisos', 1, 'Santa Cruz de Tenerife')
